@@ -1,10 +1,11 @@
 ## Hello! 👋
 I'm Prashant Hatekar.
 
-Student at SKNSCOE Pandharpur,India .
+Completed B.Tech from Punyashlok Ahilyadevi Holakar Solapur University , Solapur
 ## Skills - 
-Java,Python,C,Android -  HTML,CSS,Javascript -  SQL
+C#,Java,Python,C,Android -  HTML,CSS,Javascript -  SQL
 ## Frameworks
+ASp. Net MVC
 Codeigniter4
 Express
 Laravel
